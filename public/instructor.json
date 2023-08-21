@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "specialty": "Yoga",
+    "email": "demo@gmail.com",
+    "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aW5zdHJ1Y3RvcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "students": 85
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "specialty": "Pilates",
+    "image": "https://images.unsplash.com/photo-1589860518300-9eac95f784d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aW5zdHJ1Y3RvcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "students": 75
+  },
+  {
+    "id": 3,
+    "name": "Michael Johnson",
+    "email": "demo@gmail.com",
+    "specialty": "CrossFit",
+    "image": "https://images.unsplash.com/photo-1519311965067-36d3e5f33d39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGluc3RydWN0b3J8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "students": 68
+  },
+  {
+    "id": 4,
+    "name": "Emily Williams",
+    "email": "demo@gmail.com",
+    "specialty": "Dance",
+    "image": "https://images.unsplash.com/photo-1542019058314-8dd1dc1e2a4b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGluc3RydWN0b3J8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    "students": 56
+  },
+  {
+    "id": 5,
+    "name": "David Lee",
+    "email": "demo@gmail.com",
+    "specialty": "Martial Arts",
+    "image": "https://plus.unsplash.com/premium_photo-1663036934563-125b1dd30df7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aW5zdHJ1Y3RvcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "students": 50
+  },
+  {
+    "id": 6,
+    "name": "Sarah Turner",
+    "email": "demo@gmail.com",
+    "specialty": "Zumba",
+    "image": "https://plus.unsplash.com/premium_photo-1663036934563-125b1dd30df7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aW5zdHJ1Y3RvcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "students": 42
+  }
+]
