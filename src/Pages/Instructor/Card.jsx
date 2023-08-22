@@ -6,12 +6,12 @@ const Card = ({ item }) => {
     <div className="mt-6 text-center m-auto">
       <div className="card w-96 bg-base-100 shadow-xl">
         <figure>
-          <img src={image} alt="" />
+          <img className="w-full h-[300px] object-cover" src={image} alt="" />
         </figure>
         <div className="card-body">
-          <h2 className="card-title">{name}!</h2>
+          <h2 className="card-title">Name: {name}!</h2>
           <div className="card-actions justify-start">
-            <div className="text-left badge badge-outline">{email}</div>
+            <div className="text-left badge badge-outline">Email: {email}</div>
           </div>
         </div>
       </div>

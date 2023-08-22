@@ -30,9 +30,9 @@ const Classpage = () => {
   return (
     <div>
       <div className="my-10 text-center">
-        <h1 className="text-5xl font-bold">Our All Instructor</h1>
+        <h1 className="text-5xl font-bold">Our All Course</h1>
         <p className="text-3xl font-semibold mt-6 text-[#8e9cd5]">
-          Choose it Your Own Instructor
+          Choose it Your Own Course
         </p>
         <div className="w-2/3 md:w-full md:grid md:grid-cols-3 md:gap-4 m-auto text-center">
           {classes.map((item) => (

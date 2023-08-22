@@ -8,12 +8,12 @@ const Sideway = () => {
         Make it Your Own Platform
       </p>
       <div className="md:flex p-4 mt-5  align-middle	 ">
-        <div className="flex-shrink-0 w-1/2">
+        <div className="flex-shrink-0 md:w-1/2">
           <img src={img1} alt="" className="w-full h-auto rounded-lg" />
         </div>
         <div className="ml-4">
-          <h2 className="text-4xl font-semibold">YOUR COURSE MANAGER</h2>
-          <h3 className="text-2xl mt-4 text-black-400">
+          <h2 className="text-4xl font-semibold">We are Course Manager</h2>
+          <h3 className="text-xl mt-4 text-black-400">
             Alongside his role as senior lecturer, Rijsdijk is also an associate
             in the Environmental Humanities South programme at UCT. He teaches
             widely in the areas of film history and theory, and screenwriting,

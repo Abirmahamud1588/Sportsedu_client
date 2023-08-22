@@ -34,7 +34,7 @@ const Classcard = ({ item }) => {
         .then((data) => {
           if (data.insertedId) {
             refetch(); //refetch cart to update the number of carts
-            Swal.fire("Food Added In The Cart", "success");
+            Swal.fire("Course Added In The Cart", "success");
           }
         });
     } else {

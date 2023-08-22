@@ -36,6 +36,11 @@ const Dashboard = () => {
             <ul className="menu p-4 w-80 h-full bg-base-200 text-base-content">
               {/* Sidebar content for admin */}
               <li>
+                <Link to="/">
+                  <FaHome /> Home
+                </Link>
+              </li>
+              <li>
                 <Link to="/dashboard/user">
                   <FaShoppingCart /> All Users
                 </Link>
@@ -51,6 +56,11 @@ const Dashboard = () => {
             <ul className="menu p-4 w-80 h-full bg-base-200 text-base-content">
               {/* Sidebar content for instructor */}
               <li>
+                <li>
+                  <Link to="/">
+                    <FaHome /> Home
+                  </Link>
+                </li>
                 <Link to="/dashboard/addclass">
                   <FaNetworkWired /> Add Class
                 </Link>
